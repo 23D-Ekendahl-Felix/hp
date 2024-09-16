@@ -1,0 +1,14 @@
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\bin\Debug\net8.0\hp.exe
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\bin\Debug\net8.0\hp.deps.json
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\bin\Debug\net8.0\hp.runtimeconfig.json
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\bin\Debug\net8.0\hp.dll
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\bin\Debug\net8.0\hp.pdb
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\obj\Debug\net8.0\hp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\obj\Debug\net8.0\hp.AssemblyInfoInputs.cache
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\obj\Debug\net8.0\hp.AssemblyInfo.cs
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\obj\Debug\net8.0\hp.csproj.CoreCompileInputs.cache
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\obj\Debug\net8.0\hp.dll
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\obj\Debug\net8.0\refint\hp.dll
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\obj\Debug\net8.0\hp.pdb
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\obj\Debug\net8.0\hp.genruntimeconfig.cache
+C:\Users\felix.ekendahl\Documents\prog 1\hp\hp\obj\Debug\net8.0\ref\hp.dll
